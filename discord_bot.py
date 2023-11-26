@@ -314,4 +314,4 @@ async def weather(ctx, *args):
     await ctx.send("temp: " + str(temp))
 
 
-bot.run("MTE3ODE4NjQxMzM4NTE5OTY4Ng.GGWmxg.TbJJ1tbNukqmwO6jYSeVHIs-Nq01cfSaM6AznM")
+bot.run("MTE3ODE4NjQxMzM4NTE5OTY4Ng.G4DrVp.DhNB5vkZiXAJimGyQxcdJepL2rdvvnuVb90PRs")
